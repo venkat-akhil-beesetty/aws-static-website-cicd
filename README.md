@@ -77,7 +77,7 @@ aws-static-website-cicd/
 </ul>
 
 
-## 📚 Future Improvements
+## 💡 Future Improvements
 
 <ul>
   <li>Provision infrastructure using Terraform.</li>
