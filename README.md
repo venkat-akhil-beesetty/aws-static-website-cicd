@@ -62,6 +62,28 @@ aws-static-website-cicd/
 └── styles.css                    # UI styling asset
 ```
 
+## 🖼️ Screenshots
+
+### Live Website
+
+![Live Website](./screenshots/website_live.png)
+
+### GitHub Actions Deployment
+
+![GitHub Actions Success](./screenshots/github_action_success.png)
+
+### Deployment Logs
+
+![Deployment Logs](./screenshots/github_actions.png)
+
+### Amazon S3 Bucket
+
+![S3 Bucket](./screenshots/s3_bucket.png)
+
+### CloudFront Distribution
+
+![CloudFront](./screenshots/cloudfront_distribution.png)
+
 
 ## 📚 Lessons Learned
 
